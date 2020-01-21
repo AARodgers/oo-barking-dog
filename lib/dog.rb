@@ -12,4 +12,7 @@ class Dog
         puts "woof!"
     end
 
+    bell = Dog.new
+    bell.name = "Bell"
+
 end
